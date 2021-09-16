@@ -1,4 +1,4 @@
 class BasicCar:
     def __init__(self, speed, color):
         self.speed = speed
-        self.color = colorgit 
+        self.color = color
